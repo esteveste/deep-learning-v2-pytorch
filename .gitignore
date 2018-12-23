@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 
 *.pyc
+
+convolutional-neural-networks/mnist-mlp/data/raw/
+
+convolutional-neural-networks/cifar-cnn/data/
